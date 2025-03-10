@@ -1,4 +1,4 @@
-# introductFlask# Aula de API com Flask
+# Aula de API com Flask
 Este repositorio foi criado para dar uma introdução ao Flask, criando uma API simples para introdução dos Alunos aos conceitos de API e  MicroServiço
 
 ## Estrutura do Projeto
